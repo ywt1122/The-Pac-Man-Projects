@@ -1,5 +1,6 @@
 # The-Pac-Man-Projects
-![Uploading image.png…]()
+![image](https://github.com/ywt1122/The-Pac-Man-Projects/assets/126426671/9938adae-668e-4c06-a4df-f91f2c801ec1)
+
 
 ## Overview
 The Pac-Man projects were developed for CS 188. They apply an array of AI techniques to playing Pac-Man. However, these projects don’t focus on building AI for video games. Instead, they teach foundational AI concepts, such as informed state-space search, probabilistic inference, and reinforcement learning. These concepts underly real-world application areas such as natural language processing, computer vision, and robotics.
